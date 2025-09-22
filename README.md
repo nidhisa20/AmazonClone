@@ -14,6 +14,8 @@ A responsive **Amazon Clone** built with HTML, CSS, and JavaScript. This project
 - Styled using modern CSS techniques for a clean layout.
 
 ## 📁 Project Structure
+
+```plaintext
 AmazonClone/
 ├─ index.html           # Main homepage
 ├─ signin.html          # Sign-in page
@@ -32,6 +34,8 @@ AmazonClone/
 
 
 
+
+
 ## 💻 Technologies Used
 - **HTML5**
 - **CSS3**
@@ -42,3 +46,10 @@ AmazonClone/
 1. Clone the repository:
 ```bash
 git clone https://github.com/nidhisa20/AmazonClone.git
+```
+2.Navigate to the project folder:
+```bash
+cd AmazonClone
+```
+3.Open index.html in your browser.
+
