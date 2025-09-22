@@ -32,7 +32,7 @@ AmazonClone/
 │       └─ ...
 ├─ README.md            # Project documentation
 
-
+```
 
 
 
