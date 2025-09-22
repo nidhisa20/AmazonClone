@@ -15,14 +15,21 @@ A responsive **Amazon Clone** built with HTML, CSS, and JavaScript. This project
 
 ## 📁 Project Structure
 AmazonClone/
-├─ index.html
-├─ signin.html
-├─ style.css
-├─ signin.css
-├─ assets/
-│ ├─ images
-│ └─ icons
-└─ README.md
+├─ index.html           # Main homepage
+├─ signin.html          # Sign-in page
+├─ style.css            # Main CSS for homepage
+├─ signin.css           # CSS specific to sign-in page
+├─ script.js            # JavaScript for interactive features (if any)
+├─ assets/              # Folder for all images, icons, and other media
+│  ├─ images/           # Product images, banners, logos
+│  │   ├─ amazon_logo_dark.png
+│  │   ├─ product1.jpg
+│  │   └─ ...
+│  └─ icons/            # Icons used in UI (cart, search, etc.)
+│       ├─ cart.png
+│       └─ ...
+├─ README.md            # Project documentation
+
 
 
 ## 💻 Technologies Used
