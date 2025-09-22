@@ -51,5 +51,5 @@ git clone https://github.com/nidhisa20/AmazonClone.git
 ```bash
 cd AmazonClone
 ```
-3. Open ```bash index.html ``` in your browser.
+3. Open ```index.html ``` in your browser.
 
