@@ -47,9 +47,9 @@ AmazonClone/
 ```bash
 git clone https://github.com/nidhisa20/AmazonClone.git
 ```
-2.Navigate to the project folder:
+2. Navigate to the project folder:
 ```bash
 cd AmazonClone
 ```
-3.Open index.html in your browser.
+3. Open ```bash index.html ``` in your browser.
 
