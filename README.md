@@ -52,3 +52,13 @@ cd AmazonClone
 ```
 3. Open ```index.html ``` in your browser.
 
+
+
+
+## ⚠️ Disclaimer
+**This project is an educational exercise.**  
+It is **NOT** affiliated with or endorsed by Amazon or any other company/brand.  
+
+This project is a personal learning project to practice front-end development.  
+The site is **static only** and does **not collect user data**.
+
